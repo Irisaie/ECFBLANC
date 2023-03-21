@@ -1,0 +1,250 @@
+// Je n'ai pas eu le temps de me servir de tout mon SCSS par manque de temps //
+
+
+
+// Header
+
+.hidr{
+    background:#1f2c34;} 
+    
+.navbar-nav a.nav-link{
+        text-transform: uppercase;
+        color: #77B978;
+        font-weight: 600;
+        font-family: Roboto}
+
+.navbar-nav .nav-link.active{
+        color: #77B978;} 
+
+.navbar-nav > .active {
+  color: #77B978;
+}
+.nav-item > a:hover {
+  color: #77B978!important;
+  font-family:Roboto;
+}
+                     
+                     a{
+      color: #77B978;
+      transition: color .2s;
+  }  
+ 
+
+
+// Accueil
+.acc
+    aside{
+        background-size: 100% auto;
+        height: auto;  
+        min-height: 200px;
+    }
+
+
+    article{
+color:#77B978;
+text-align: center;
+padding:0;
+font-weight: 900;
+padding-left: 15%;
+padding-right: 15%;
+font-family:Roboto;}
+       
+        p{
+          color:#67D2C0;
+                display: block;
+                font-family: "Georgia"; 
+                font-weight: 500;}
+
+
+                // Titres
+.h2
+{
+color:#77B978;
+text-align: center;
+padding:0;
+font-weight: 900;
+padding-left: 15%;
+padding-right: 15%;
+font-family: Roboto;
+}
+.h3
+{
+color:#1F2C34;
+text-align: center;
+
+
+font-family: Roboto;}
+
+
+//02 Contact
+
+
+
+.contact
+    aside{
+        background-size: 100% auto;
+        height: auto;  
+        min-height: 200px;
+    
+}
+h5{font-family:roboto;
+color:#77B978;
+font-size:30px;}
+
+small{font-family:roboto;
+font-size:30px;
+color:#77B978;}
+
+
+body h2 {
+  text-transform: uppercase;
+  color:#67D2C0;
+  font-family: "Roboto"
+  font-weight: 900;
+  border-left: 5px solid;
+  padding-left: 5%;
+  margin:3%;
+  text-align: center;
+}
+
+
+
+
+p {
+  font-family: "Georgia"
+}
+
+.br {
+  border-right: 3px solid #67D2C0;
+} 
+
+.bl{
+	border-left: 3px solid #67D2C0;
+}
+
+h1 {
+  float: right;
+  margin: 0;
+}
+
+.container-fluid article {
+	padding: 2% 4%; 
+}
+
+
+.films {
+   background-size: 100% auto;
+    height: auto;  
+    min-height: 200px;}
+    .row{
+        padding: 3% 2%;
+            }
+        }
+
+        body{
+    background: #eee;
+}
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #77B978;
+}
+
+
+
+.box{
+    padding:60px 0px;
+    border-color: #1f2c34;
+}
+
+.box-part{
+    background:#1f2c34;
+    border: solid;
+    border-radius:30px;
+    padding:60px 10px;
+    margin:30px 0px;
+    box-shadow: 10px 5px 5px #1F2C34;
+}
+.text{
+    color:#1F2C34;
+    font-family: Roboto;
+    font-size: 22px;}
+    h4{
+      color:#77B978;
+      font-family: Roboto;
+      font-size: 300;
+    }
+    i{
+      color:#FFF;
+    }
+}
+
+.fa{
+     color:#77B978;
+}
+
+h4{color:#77B978;
+font-family:Roboto;
+}
+
+h5 {
+	float:center;
+}
+
+.footer{
+  position: absolute;
+  width : 100%;
+  bottom: 1;
+  background: #1F2C34;
+  color:white;
+  }
+
+}
+     
+  .soutenance
+    i{font-size:250;}
+    a{
+      color:white;
+      font-size: 250;
+      text-decoration:none;
+      font-family:Georgia;}
+      p{font-size:18px;
+        font-family: georgia;}
+
+    }
+  } 
+  .location
+    i{font-size: 500;}
+    {font-family:  Georgia;}
+    p{font-size: 18px;
+      font-family:georgia;}
+  }
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display:flex;}
+
+
+a.nounderline:link 
+{ 
+ text-decoration:#77B978;
+ font-family: Roboto;
+ font-size: 20px;
+} 
+
+a:hover {
+  color:#77B978;
+}
+
+
+
+
+
